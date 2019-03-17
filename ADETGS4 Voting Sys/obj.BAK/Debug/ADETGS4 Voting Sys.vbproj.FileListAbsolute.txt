@@ -1,0 +1,14 @@
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\obj\Debug\ADETGS4 Voting Sys.vbprojAssemblyReference.cache
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\obj\Debug\ADETGS4_Voting_Sys.mainForm.resources
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\obj\Debug\ADETGS4_Voting_Sys.Resources.resources
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\obj\Debug\ADETGS4_Voting_Sys.splashScreen.resources
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\obj\Debug\ADETGS4 Voting Sys.vbproj.GenerateResource.cache
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\obj\Debug\ADETGS4 Voting Sys.vbproj.CoreCompileInputs.cache
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\bin\Debug\ADETGS4 Voting Sys.exe.config
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\bin\Debug\ADETGS4 Voting Sys.exe
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\bin\Debug\ADETGS4 Voting Sys.pdb
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\bin\Debug\ADETGS4 Voting Sys.xml
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\obj\Debug\ADETGS4 Voting Sys.exe
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\obj\Debug\ADETGS4 Voting Sys.xml
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\obj\Debug\ADETGS4 Voting Sys.pdb
+D:\7. SMA Tarakanita GS\ADETGS VS 2019\ADETGS4 Voting Sys\ADETGS4 Voting Sys\obj\Debug\ADETGS4_Voting_Sys.settingForm.resources

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ADETGS4 Voting Sys
+</name>
+</assembly>
+<members>
+<member name="T:ADETGS4_Voting_Sys.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.bg_img_res">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.bg_img1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.bg_img2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.bg_img3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.bg_img4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.bg_img5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.next_btn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.prev_btn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.set_btn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.splash4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.strt_btn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ADETGS4_Voting_Sys.My.Resources.Resources.vote_btn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
