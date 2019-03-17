@@ -90,4 +90,4 @@ Bila aplikasi masih tetap berjalan tidak sesuai ukuran layar, ubah pembesaran la
 * [Visual Studio Community 2017](https://visualstudio.microsoft.com/vs/community/) - App Desinger
 * [NET. Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653) - FrameWork Components
 
-Serta sepenuh hati, dari tim ADETGS 4 (2019).
+Serta sepenuh hati, dari tim IT, Publikasi, serta Dokumentasi ADETGS 4 (2019).
