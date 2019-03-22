@@ -38,8 +38,4 @@ Added folder browser dialog for better browsing.
 Removed key press command.
 Added support for custom IP Address and Port.
 Fix port creation issue.
-
-
-
-
-
+Added scoring reset.
