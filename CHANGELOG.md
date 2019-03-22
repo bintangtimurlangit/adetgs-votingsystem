@@ -34,6 +34,11 @@ Fix TCP connecting issues.
 Minor code improvements.
 Added folder browser dialog for better browsing.
 
+## Version 1.7.2 RELEASE
+Removed key press command.
+Added support for custom IP Address and Port.
+Fix port creation issue.
+
 
 
 
